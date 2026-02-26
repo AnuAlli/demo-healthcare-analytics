@@ -2,7 +2,7 @@
 
 An interactive Streamlit application demonstrating a **Snowflake-based healthcare analytics platform** — with HIPAA-compliant data handling, clinical analytics, dbt transformation monitoring, and ML-powered readmission prediction.
 
-**[View Live Demo](https://anualli-demo-healthcare-analytics.streamlit.app)**
+**[View Live Demo](https://anualli-demo-healthcare-analytics-app-tmtgcf.streamlit.app)**
 
 ---
 
